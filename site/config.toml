@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://james-demo.dnk8n.dev/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
